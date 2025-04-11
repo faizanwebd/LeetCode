@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/faizanwebd/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/faizanwebd/LeetCode/tree/master/1827-invalid-tweets) |
 ## Array
 |  |
