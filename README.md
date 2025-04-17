@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/faizanwebd/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/faizanwebd/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/faizanwebd/LeetCode/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/faizanwebd/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/faizanwebd/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/faizanwebd/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/faizanwebd/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/faizanwebd/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/faizanwebd/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/faizanwebd/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
