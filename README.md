@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/faizanwebd/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/faizanwebd/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/faizanwebd/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/faizanwebd/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/faizanwebd/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
