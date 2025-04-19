@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/faizanwebd/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/faizanwebd/LeetCode/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/faizanwebd/LeetCode/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/faizanwebd/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
