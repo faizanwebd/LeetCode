@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/faizanwebd/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/faizanwebd/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/faizanwebd/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/faizanwebd/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/faizanwebd/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/faizanwebd/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Recursion
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/faizanwebd/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/faizanwebd/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -190,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/faizanwebd/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
