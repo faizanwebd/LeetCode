@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/faizanwebd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/faizanwebd/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/faizanwebd/LeetCode/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/faizanwebd/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/faizanwebd/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/faizanwebd/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/faizanwebd/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/faizanwebd/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/faizanwebd/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/faizanwebd/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/faizanwebd/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/faizanwebd/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/faizanwebd/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/faizanwebd/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/faizanwebd/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
