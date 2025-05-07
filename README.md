@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/faizanwebd/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/faizanwebd/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/faizanwebd/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/faizanwebd/LeetCode/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/faizanwebd/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/faizanwebd/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/faizanwebd/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0937-online-stock-span](https://github.com/faizanwebd/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/faizanwebd/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/faizanwebd/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/faizanwebd/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/faizanwebd/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
@@ -362,4 +365,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/faizanwebd/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/faizanwebd/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
