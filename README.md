@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/faizanwebd/LeetCode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/faizanwebd/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/faizanwebd/LeetCode/tree/master/1480-movie-rating) |
+| [1625-group-sold-products-by-the-date](https://github.com/faizanwebd/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/faizanwebd/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/faizanwebd/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/faizanwebd/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
