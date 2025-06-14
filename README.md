@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/faizanwebd/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/faizanwebd/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/faizanwebd/LeetCode/tree/master/0394-decode-string) |
 ## Design
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/faizanwebd/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/faizanwebd/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/faizanwebd/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/faizanwebd/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/faizanwebd/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/faizanwebd/LeetCode/tree/master/0062-unique-paths) |
 | [1236-n-th-tribonacci-number](https://github.com/faizanwebd/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
