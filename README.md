@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/faizanwebd/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/faizanwebd/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/faizanwebd/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/faizanwebd/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/faizanwebd/LeetCode/tree/master/0189-rotate-array) |
 | [1236-n-th-tribonacci-number](https://github.com/faizanwebd/LeetCode/tree/master/1236-n-th-tribonacci-number) |
