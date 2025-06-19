@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/faizanwebd/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/faizanwebd/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/faizanwebd/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/faizanwebd/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/faizanwebd/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/faizanwebd/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/faizanwebd/LeetCode/tree/master/0399-evaluate-division) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/faizanwebd/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/faizanwebd/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/faizanwebd/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/faizanwebd/LeetCode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/faizanwebd/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/faizanwebd/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1397-search-suggestions-system](https://github.com/faizanwebd/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/faizanwebd/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/faizanwebd/LeetCode/tree/master/0937-online-stock-span) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/faizanwebd/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
