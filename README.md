@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/faizanwebd/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/faizanwebd/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/faizanwebd/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/faizanwebd/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/faizanwebd/LeetCode/tree/master/0392-is-subsequence) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/faizanwebd/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/faizanwebd/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/faizanwebd/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/faizanwebd/LeetCode/tree/master/0062-unique-paths) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/faizanwebd/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/faizanwebd/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
