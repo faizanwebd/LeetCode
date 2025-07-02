@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/faizanwebd/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/faizanwebd/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/faizanwebd/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [3618-find-the-original-typed-string-ii](https://github.com/faizanwebd/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/faizanwebd/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/faizanwebd/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/faizanwebd/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/faizanwebd/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/faizanwebd/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/faizanwebd/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/faizanwebd/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3618-find-the-original-typed-string-ii](https://github.com/faizanwebd/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
 |  |
 | ------- |
