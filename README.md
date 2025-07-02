@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/faizanwebd/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/faizanwebd/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/faizanwebd/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/faizanwebd/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/faizanwebd/LeetCode/tree/master/0072-edit-distance) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/faizanwebd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/faizanwebd/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/faizanwebd/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/faizanwebd/LeetCode/tree/master/0055-jump-game) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/faizanwebd/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/faizanwebd/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/faizanwebd/LeetCode/tree/master/0735-asteroid-collision) |
