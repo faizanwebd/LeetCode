@@ -7,7 +7,7 @@ class Solution {
     for (int i = operationsCount - 1; i >= 0; --i) {
       const long halfSize = 1L << i;
       if (k > halfSize) {
-        k -= halfSize;  // Move k from the right half to the left half.
+        k -= halfSize;  
         increases += operations[i];
       }
     }
