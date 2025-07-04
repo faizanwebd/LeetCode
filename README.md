@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/faizanwebd/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/faizanwebd/LeetCode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/faizanwebd/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/faizanwebd/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
 |  |
 | ------- |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/faizanwebd/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1236-n-th-tribonacci-number](https://github.com/faizanwebd/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/faizanwebd/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/faizanwebd/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/faizanwebd/LeetCode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/faizanwebd/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/faizanwebd/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/faizanwebd/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
 |  |
 | ------- |
