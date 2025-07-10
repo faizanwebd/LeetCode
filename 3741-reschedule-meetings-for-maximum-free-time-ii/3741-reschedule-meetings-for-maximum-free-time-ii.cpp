@@ -20,7 +20,7 @@ class Solution {
       const int currMeetingTime = endTime[i] - startTime[i];
       const int adjacentGapsSum = gaps[i] + gaps[i + 1];
       const bool canMoveMeeting =
-          currMeetingTime <= max(i > 0 ? maxLeft[i - 1] : 0,  //
+          currMeetingTime <= max(i > 0 ? maxLeft[i - 1] : 0, 
                                  i + 2 < n + 1 ? maxRight[i + 2] : 0);
       ans = max(ans, adjacentGapsSum + (canMoveMeeting ? currMeetingTime : 0));
     }
