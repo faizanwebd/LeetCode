@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/faizanwebd/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/faizanwebd/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/faizanwebd/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/faizanwebd/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/faizanwebd/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/faizanwebd/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/faizanwebd/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/faizanwebd/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/faizanwebd/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/faizanwebd/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/faizanwebd/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2470-removing-stars-from-a-string](https://github.com/faizanwebd/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3396-valid-word](https://github.com/faizanwebd/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/faizanwebd/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/faizanwebd/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/faizanwebd/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/faizanwebd/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/faizanwebd/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/faizanwebd/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/faizanwebd/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/faizanwebd/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/faizanwebd/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/faizanwebd/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/faizanwebd/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/faizanwebd/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -582,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/faizanwebd/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/faizanwebd/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
