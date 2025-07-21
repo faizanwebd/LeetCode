@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/faizanwebd/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/faizanwebd/LeetCode/tree/master/0649-dota2-senate) |
 | [1250-longest-common-subsequence](https://github.com/faizanwebd/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/faizanwebd/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/faizanwebd/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/faizanwebd/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/faizanwebd/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
