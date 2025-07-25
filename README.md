@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/faizanwebd/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/faizanwebd/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/faizanwebd/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/faizanwebd/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/faizanwebd/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/faizanwebd/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/faizanwebd/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/faizanwebd/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/faizanwebd/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/faizanwebd/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/faizanwebd/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/faizanwebd/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
