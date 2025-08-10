@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/faizanwebd/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/faizanwebd/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/faizanwebd/LeetCode/tree/master/0383-ransom-note) |
+| [0900-reordered-power-of-2](https://github.com/faizanwebd/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/faizanwebd/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/faizanwebd/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/faizanwebd/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/faizanwebd/LeetCode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/faizanwebd/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/faizanwebd/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0900-reordered-power-of-2](https://github.com/faizanwebd/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1397-search-suggestions-system](https://github.com/faizanwebd/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/faizanwebd/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1777-determine-if-two-strings-are-close](https://github.com/faizanwebd/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/faizanwebd/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/faizanwebd/LeetCode/tree/master/0383-ransom-note) |
+| [0900-reordered-power-of-2](https://github.com/faizanwebd/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/faizanwebd/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/faizanwebd/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Search
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/faizanwebd/LeetCode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/faizanwebd/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/faizanwebd/LeetCode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/faizanwebd/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/faizanwebd/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/faizanwebd/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/faizanwebd/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/faizanwebd/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/faizanwebd/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/faizanwebd/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Function
