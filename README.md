@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/faizanwebd/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/faizanwebd/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/faizanwebd/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/faizanwebd/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/faizanwebd/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/faizanwebd/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/faizanwebd/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/faizanwebd/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/faizanwebd/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/faizanwebd/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/faizanwebd/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/faizanwebd/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/faizanwebd/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/faizanwebd/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/faizanwebd/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/faizanwebd/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/faizanwebd/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/faizanwebd/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/faizanwebd/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
