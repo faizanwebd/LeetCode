@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/faizanwebd/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/faizanwebd/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/faizanwebd/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/faizanwebd/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/faizanwebd/LeetCode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/faizanwebd/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/faizanwebd/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/faizanwebd/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/faizanwebd/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/faizanwebd/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/faizanwebd/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/faizanwebd/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/faizanwebd/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/faizanwebd/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/faizanwebd/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/faizanwebd/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/faizanwebd/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/faizanwebd/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/faizanwebd/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/faizanwebd/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/faizanwebd/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
