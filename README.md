@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/faizanwebd/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/faizanwebd/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0643-maximum-average-subarray-i](https://github.com/faizanwebd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/faizanwebd/LeetCode/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/faizanwebd/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/faizanwebd/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/faizanwebd/LeetCode/tree/master/0735-asteroid-collision) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/faizanwebd/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/faizanwebd/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0679-24-game](https://github.com/faizanwebd/LeetCode/tree/master/0679-24-game) |
 ## Math
 |  |
 | ------- |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/faizanwebd/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/faizanwebd/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/faizanwebd/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0679-24-game](https://github.com/faizanwebd/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/faizanwebd/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/faizanwebd/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/faizanwebd/LeetCode/tree/master/0900-reordered-power-of-2) |
