@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/faizanwebd/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/faizanwebd/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/faizanwebd/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/faizanwebd/LeetCode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/faizanwebd/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/faizanwebd/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/faizanwebd/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/faizanwebd/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/faizanwebd/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/faizanwebd/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/faizanwebd/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/faizanwebd/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/faizanwebd/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/faizanwebd/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
