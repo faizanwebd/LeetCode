@@ -49,7 +49,6 @@ class Solution {
             min(ans, /*left*/ minimumArea(grid, 0, m - 1, 0, j1) +
                          /*middle*/ minimumArea(grid, 0, m - 1, j1 + 1, j2) +
                          /*right*/ minimumArea(grid, 0, m - 1, j2 + 1, n - 1));
-
     return ans;
   }
 
