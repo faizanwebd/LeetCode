@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/faizanwebd/LeetCode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/faizanwebd/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/faizanwebd/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0498-diagonal-traverse](https://github.com/faizanwebd/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/faizanwebd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/faizanwebd/LeetCode/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/faizanwebd/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/faizanwebd/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/faizanwebd/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/faizanwebd/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/faizanwebd/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/faizanwebd/LeetCode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/faizanwebd/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/faizanwebd/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/faizanwebd/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/faizanwebd/LeetCode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/faizanwebd/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/faizanwebd/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/faizanwebd/LeetCode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/faizanwebd/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/faizanwebd/LeetCode/tree/master/2470-removing-stars-from-a-string) |
