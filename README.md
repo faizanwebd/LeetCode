@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/faizanwebd/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/faizanwebd/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/faizanwebd/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/faizanwebd/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/faizanwebd/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/faizanwebd/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/faizanwebd/LeetCode/tree/master/0048-rotate-image) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/faizanwebd/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/faizanwebd/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/faizanwebd/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/faizanwebd/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/faizanwebd/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/faizanwebd/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/faizanwebd/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/faizanwebd/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/faizanwebd/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/faizanwebd/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/faizanwebd/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/faizanwebd/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/faizanwebd/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/faizanwebd/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/faizanwebd/LeetCode/tree/master/0037-sudoku-solver) |
 | [0216-combination-sum-iii](https://github.com/faizanwebd/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/faizanwebd/LeetCode/tree/master/0679-24-game) |
 ## Math
